@@ -27,8 +27,8 @@ public class Demo {
         caps.setCapability("browser", "Chrome");
         caps.setCapability("browser_version", "latest");
         caps.setCapability("os", "Windows");
-        caps.setCapability("name", "BStack-[Java] Sample Test"); // test name
-        caps.setCapability("build", "BStack Build Xena"); // CI/CD job or build name
+        caps.setCapability("name", "BStack-[Java] Demo"); // test name
+        caps.setCapability("build", "BStack Build Xena Automation"); // CI/CD job or build name
         Local bsLocal = new Local();
         HashMap<String, String> bsLocalArgs = new HashMap<String, String>();
         bsLocalArgs.put("key", "sWkwdJeqRzF4qypGSvWt");
