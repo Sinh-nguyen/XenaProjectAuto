@@ -91,7 +91,7 @@
                 <executions>
                     <execution>
                         <goals>
-                            <goal>Demo.java</goal>
+                            <goal>test</goal>
                         </goals>
                     </execution>
                 </executions>
